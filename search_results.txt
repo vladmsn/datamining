@@ -1,0 +1,700 @@
+Category: NEWSPAPERS
+Clue: The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation
+Query: U.S. the top 10 U.S. papers our nation's capital 10 circulation it
+Expected Answer: The Washington Post
+Top Search Result: Banking in the United States
+Hit: No
+-------------------------------------------------
+Category: OLD YEAR'S RESOLUTIONS
+Clue: The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China
+Query: pre-authorizing presidential use 1955 China a 1955 resolution this island The practice mainland China force
+Expected Answer: Taiwan
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NEWSPAPERS
+Clue: Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading
+Query: Daniel Hertzberg 1988 their stories Pulitzer this paper James B. Stewart Daniel Hertzberg & James B. Stewart insider trading a 1988 Pulitzer
+Expected Answer: The Wall Street Journal
+Top Search Result: The Wall Street Journal
+Hit: Yes
+-------------------------------------------------
+Category: BROADWAY LYRICS
+Clue: Song that says, "you make me smile with my heart; your looks are laughable, unphotographable"
+Query: that me you your looks my heart
+Expected Answer: My Funny Valentine
+Top Search Result: Aida
+Hit: No
+-------------------------------------------------
+Category: POTPOURRI
+Clue: In 2011 bell ringers for this charity started accepting digital donations to its red kettle
+Query: this charity 2011 its red kettle 2011 bell ringers digital donations
+Expected Answer: The Salvation Army|Salvation Army
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Clue: The Naples Museum of Art
+Query: Art The Naples Museum The Naples Museum of Art
+Expected Answer: Florida
+Top Search Result: Jen Stark
+Hit: No
+-------------------------------------------------
+Category: "TIN" MEN
+Clue: This Italian painter depicted the "Adoration of the Golden Calf"
+Query: This Italian painter the Golden Calf Italian the "Adoration
+Expected Answer: Tintoretto
+Top Search Result: Nicolas Poussin
+Hit: No
+-------------------------------------------------
+Category: UCLA CELEBRITY ALUMNI
+Clue: This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship
+Query: consecutive heptathlons the Olympics a basketball scholarship Olympics This woman who UCLA
+Expected Answer: Jackie Joyner-Kersee
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: SERVICE ORGANIZATIONS
+Clue: Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes
+Query: a gearwheel 24 cogs & 6 this club's emblem 24 cogs wagon it 6 spokes a wagon wheel
+Expected Answer: Rotary International
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: AFRICAN CITIES
+Clue: Several bridges, including El Tahrir, cross the Nile in this capital
+Query: Several bridges this capital El Tahrir the Nile Nile
+Expected Answer: Cairo
+Top Search Result: Cairo
+Hit: Yes
+-------------------------------------------------
+Category: HISTORICAL QUOTES
+Clue: After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war"
+Query: 1940 the war France his country this general the fall a battle
+Expected Answer: Charles de Gaulle|de Gaulle
+Top Search Result: Anglo-French Supreme War Council
+Hit: No
+-------------------------------------------------
+Category: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Clue: The Taft Museum of Art
+Query: Art The Taft Museum The Taft Museum of Art
+Expected Answer: Ohio
+Top Search Result: Anders Zorn
+Hit: No
+-------------------------------------------------
+Category: CEMETERIES
+Clue: The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery
+Query: the ship part The mast the USS Maine the memorial crew this national cemetery
+Expected Answer: Arlington National Cemetery|Arlington Cemetery
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: GOLDEN GLOBE WINNERS
+Clue: In 2009: Joker on film
+Query: film Joker 2009
+Expected Answer: Heath Ledger
+Top Search Result: Mark Hamill
+Hit: No
+-------------------------------------------------
+Category: HISTORICAL HODGEPODGE
+Clue: It was the peninsula fought over in the peninsular war of 1808 to 1814
+Query: the peninsular war the peninsula 1808 to 1814 It
+Expected Answer: Iberia|Iberian Peninsula
+Top Search Result: Napoleonic Wars
+Hit: No
+-------------------------------------------------
+Category: CONSERVATION
+Clue: In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve
+Query: China Wolong Nature Preserve 1980 these cute creatures a center
+Expected Answer: Panda|Giant panda
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: '80s NO.1 HITMAKERS
+Clue: 1988: "Father Figure"
+Query: 1988 1988: "Father Figure
+Expected Answer: George Michael
+Top Search Result: Zhao Nanqi
+Hit: No
+-------------------------------------------------
+Category: AFRICAN-AMERICAN WOMEN
+Clue: In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother"
+Query: Myrlie Evers-Williams an essay 2011 this 2011 film this film her mother My mother
+Expected Answer: The Help
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: SERVICE ORGANIZATIONS
+Clue: Father Michael McGivney founded this fraternal society for Catholic laymen in 1882
+Query: Catholic laymen Michael McGivney Father Michael McGivney this fraternal society Catholic 1882
+Expected Answer: Knights of Columbus
+Top Search Result: Knights of Columbus
+Hit: Yes
+-------------------------------------------------
+Category: CONSERVATION
+Clue: Early projects of the WWF, this organization, included work with the bald eagle & the red wolf
+Query: work Early projects eagle & the red wolf this organization the WWF the red wolf the bald eagle
+Expected Answer: World Wide Fund|World Wide Fund for Nature
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CONSERVATION
+Clue: Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself
+Query: the job poachers Indonesia we fire it
+Expected Answer: Komodo dragon
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: 1920s NEWS FLASH!
+Clue: Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!
+Query: Bernt Balchen Nov. 28, 1929 his chief pilot This man Yowza an admirable admiral South Pole You Nov.
+Expected Answer: Richard Byrd|Richard E. Byrd
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CEMETERIES
+Clue: On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery
+Query: Dodge City 1878 Alice Chambers this Dodge City May Kansas cemetery Alice Chambers the last person May 5 Kansas
+Expected Answer: Boot Hill
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CAMBODIAN HISTORY & CULTURE
+Clue: The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country
+Query: the late 1800s a statue this European power King Norodom who first his country the control that country The Royal Palace course The Royal Palace grounds European it
+Expected Answer: France
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: HISTORICAL HODGEPODGE
+Clue: In the 400s B.C. this Chinese philosopher went into exile for 12 years
+Query: 12 years the 400s B.C. Chinese exile this Chinese philosopher
+Expected Answer: Confucius
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: AFRICAN-AMERICAN WOMEN
+Clue: Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport
+Query: a pilot Bessie Coleman first the first black woman this Chicago airport Chicago her honor a street
+Expected Answer: O'Hare|O'Hare International Airport
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: HISTORICAL HODGEPODGE
+Clue: The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them
+Query: B.C. & the capital Mideast the 1200s B.C. them Ammonites this Mideast country the capital 1200s The Ammonites sway
+Expected Answer: Jordan
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: HE PLAYED A GUY NAMED JACK RYAN IN...
+Clue: "The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting"
+Query: The Sum of All Fears Good Will Hunting he Oscar a screenwriting Oscar All Fears Good
+Expected Answer: Ben Affleck
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: POTPOURRI
+Clue: One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked"
+Query: this landmark 1973 Supreme Court decision 1973 the N.Y. Times' Cardinals Supreme Court One the N.Y. Times' headlines
+Expected Answer: Roe v. Wade
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: I'M BURNIN' FOR YOU
+Clue: France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314
+Query: this order Philip IV France 1314 the last Grand Master The Fair"--had Jacques De Molay France's Philip IV The Fair"--had Jacques De Molay
+Expected Answer: Knights Templar
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Clue: The Georgia O'Keeffe Museum
+Query: The Georgia O'Keeffe Museum
+Expected Answer: New Mexico
+Top Search Result: Dan Budnik
+Hit: No
+-------------------------------------------------
+Category: AFRICAN CITIES
+Clue: The name of this largest Moroccan city combines 2 Spanish words
+Query: 2 Spanish words 2 this largest Moroccan city Spanish The name Moroccan
+Expected Answer: Casablanca
+Top Search Result: Extremadura
+Hit: No
+-------------------------------------------------
+Category: NAME THE PARENT COMPANY
+Clue: Jell-O
+Query: Jell Jell-O
+Expected Answer: Kraft Foods
+Top Search Result: Jell-O
+Hit: No
+-------------------------------------------------
+Category: GOLDEN GLOBE WINNERS
+Clue: 2011: Chicago mayor Tom Kane
+Query: Chicago mayor Tom Kane Tom Kane Chicago 2011
+Expected Answer: Kelsey Grammer
+Top Search Result: Citizen Kane
+Hit: No
+-------------------------------------------------
+Category: THE RESIDENTS
+Clue: Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy
+Query: Pinto Flounder, Pinto & Bluto 1978 Bluto a 1978 comedy Title residence Otter Flounder
+Expected Answer: Animal House
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: UCLA CELEBRITY ALUMNI
+Clue: Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA
+Query: Neurobiologist Amy Farrah Fowler The Big Bang Theory neuroscience real life a Ph.D. Ph.D. she Amy Farrah Fowler UCLA
+Expected Answer: Mayim Bialik
+Top Search Result: Mayim Bialik
+Hit: Yes
+-------------------------------------------------
+Category: NOTES FROM THE CAMPAIGN TRAIL
+Clue: In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president
+Query: "The Deadlocked Election this dueling vice president the fall The Deadlocked Election of 1800 James R. Sharp
+Expected Answer: Aaron Burr
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: "TIN" MEN
+Clue: He served in the KGB before becoming president & then prime minister of Russia
+Query: then prime minister KGB president Russia the KGB He
+Expected Answer: Vladimir Putin|Putin
+Top Search Result: Vladimir Putin
+Hit: No
+-------------------------------------------------
+Category: AFRICAN-AMERICAN WOMEN
+Clue: When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom
+Query: first & herself Sasha's mom Malia she Malia & Sasha's
+Expected Answer: Michelle Obama
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: POETS & POETRY
+Clue: She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light"
+Query: a lovely light both ends She my friends My candle it
+Expected Answer: Edna St. Vincent Millay
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Clue: In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko
+Query: Tuomiokirkko Finnish this Finnish city the Lutheran Cathedral
+Expected Answer: Helsinki
+Top Search Result: Savonlinna
+Hit: No
+-------------------------------------------------
+Category: NAME THE PARENT COMPANY
+Clue: Milton Bradley games
+Query: Milton Bradley Milton Bradley games
+Expected Answer: Hasbro
+Top Search Result: Axis & Allies
+Hit: No
+-------------------------------------------------
+Category: OLD YEAR'S RESOLUTIONS
+Clue: The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress
+Query: these controversial 1798 acts The Kentucky & Virginia resolutions Kentucky 1798 Virginia Congress
+Expected Answer: The Alien and Sedition Acts
+Top Search Result: Kentucky and Virginia Resolutions
+Hit: No
+-------------------------------------------------
+Category: '80s NO.1 HITMAKERS
+Clue: 1983: "Beat It"
+Query: 1983 It
+Expected Answer: Michael Jackson
+Top Search Result: 3728 IRAS
+Hit: No
+-------------------------------------------------
+Category: GOLDEN GLOBE WINNERS
+Clue: In 2009: Sookie Stackhouse
+Query: In 2009: Sookie Stackhouse Sookie 2009
+Expected Answer: Anna Paquin
+Top Search Result: True Blood
+Hit: No
+-------------------------------------------------
+Category: HISTORICAL HODGEPODGE
+Clue: This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923
+Query: Nixon This member the Nixon & Ford cabinets Germany Ford Furth 1923
+Expected Answer: Henry Kissinger
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Clue: The High Kirk of St. Giles, where John Knox was minister
+Query: minister John Knox The High Kirk St. Giles
+Expected Answer: Edinburgh
+Top Search Result: John Knox
+Hit: No
+-------------------------------------------------
+Category: UCLA CELEBRITY ALUMNI
+Clue: For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production
+Query: he a lead role a 1950 stage production 1950 a rebel the brief time a cause
+Expected Answer: James Dean
+Top Search Result: John Huston
+Hit: No
+-------------------------------------------------
+Category: NAME THE PARENT COMPANY
+Clue: Fisher-Price toys
+Query: Fisher-Price toys Fisher-Price
+Expected Answer: Mattel
+Top Search Result: Little People
+Hit: No
+-------------------------------------------------
+Category: HISTORICAL QUOTES
+Clue: In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women"
+Query: he In America America we 1959 Khrushchev American Moscow women life a 1959 American kitchen exhibit
+Expected Answer: Richard Nixon|Nixon
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: POETS & POETRY
+Clue: One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere"
+Query: a Wayside Inn his "Tales midnight Tales of a Wayside Inn the midnight ride Paul Revere you One
+Expected Answer: Henry Wadsworth Longfellow
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NOTES FROM THE CAMPAIGN TRAIL
+Clue: This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore
+Query: Julianne Moore the McCain-Palin ticket McCain HBO This bestseller problems an HBO movie
+Expected Answer: Game Change
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: THAT 20-AUGHTS SHOW
+Clue: A 2-part episode of "JAG" introduced this Mark Harmon drama
+Query: 2 JAG A 2-part episode Mark Harmon this Mark Harmon drama
+Expected Answer: NCIS
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: AFRICAN CITIES
+Clue: This port is the southernmost of South Africa's 3 capitals
+Query: South Africa's 3 capitals South Africa's This port 3 the southernmost
+Expected Answer: Cape Town
+Top Search Result: Porto Alegre
+Hit: No
+-------------------------------------------------
+Category: THE QUOTABLE KEATS
+Clue: Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore"
+Query: he Edmund Spenser Keats every rift this Edmund Spenser poem ore Shelley your subject
+Expected Answer: The Faerie Queene
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: THE QUOTABLE KEATS
+Clue: In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative"
+Query: he 1819 this lord Keats a figure poet an 1819 letter Keats
+Expected Answer: Lord Byron
+Top Search Result: John Keats
+Hit: No
+-------------------------------------------------
+Category: GREEK FOOD & DRINK
+Clue: This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy
+Query: Greek white & cloudy which water This clear Greek liqueur it
+Expected Answer: Ouzo
+Top Search Result: Anise
+Hit: No
+-------------------------------------------------
+Category: OLD YEAR'S RESOLUTIONS
+Clue: Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this
+Query: a resolution this the date Feb. Feb. 1 the states an amendment National Freedom Day 1865
+Expected Answer: Slavery|Slavery in the United States
+Top Search Result: Women's suffrage
+Hit: No
+-------------------------------------------------
+Category: RANKS & TITLES
+Clue: This person is the queen's representative in Canada; currently the office is held by David Johnston
+Query: the office David Johnston the queen's representative This person Canada
+Expected Answer: Governor General of Canada
+Top Search Result: Governor General of Canada
+Hit: Yes
+-------------------------------------------------
+Category: "TIN" MEN
+Clue: He earned the "fifth Beatle" nickname by producing all of the Beatles' albums
+Query: all the Beatles' albums Beatles fifth the "fifth Beatle" nickname He
+Expected Answer: George Martin
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NEWSPAPERS
+Clue: Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle
+Query: their careers this California city's Chronicle Mark Twain Mark Twain & Bret Harte California pieces Bret Harte
+Expected Answer: San Francisco
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: POTPOURRI
+Clue: Large specimens of this marsupial can leap over barriers 6 feet high
+Query: 6 feet this marsupial barriers Large specimens
+Expected Answer: Kangaroo
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: GREEK FOOD & DRINK
+Clue: Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese
+Query: this crumbly white cheese brine sheep's milk pickled cheese it
+Expected Answer: Feta
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: 1920s NEWS FLASH!
+Clue: 1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that!
+Query: that this "Manassa Mauler 1927 Gene Tunney Manassa Mauler a long count the squared circle
+Expected Answer: Jack Dempsey
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: RANKS & TITLES
+Clue: Italian for "leader", it was especially applied to Benito Mussolini
+Query: "leader Benito Mussolini Italian it
+Expected Answer: Duce
+Top Search Result: Duce
+Hit: Yes
+-------------------------------------------------
+Category: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Clue: The Kalamazoo Institute of Arts
+Query: The Kalamazoo Institute of Arts Arts The Kalamazoo Institute
+Expected Answer: Michigan
+Top Search Result: Mei-Ann Chen
+Hit: No
+-------------------------------------------------
+Category: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Clue: The Sun Valley Center for the Arts
+Query: The Sun Valley Center for the Arts The Sun Valley Center the Arts
+Expected Answer: Idaho
+Top Search Result: Anni Rossi
+Hit: No
+-------------------------------------------------
+Category: "TIN" MEN
+Clue: You can't mention this shortstop without mentioning his double-play associates Evers & Chance
+Query: his double-play associates this shortstop You Evers Evers & Chance Chance
+Expected Answer: Joe Tinker
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NEWSPAPERS
+Clue: In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate
+Query: 1840 The Log Cabin a weekly campaign paper support "The Log Cabin weekly Horace Greeley Whig this Whig candidate
+Expected Answer: William Henry Harrison
+Top Search Result: Horace Greeley
+Hit: No
+-------------------------------------------------
+Category: I'M BURNIN' FOR YOU
+Clue: Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431
+Query: Pierre Cauchon Bishop this woman smoke May 30, 1431 the trial Beauvais who
+Expected Answer: Joan of Arc|Jeanne d'Arc
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: COMPLETE DOM-INATION(Alex: Not "domination.")
+Clue: This Wisconsin city claims to have built the USA's only granite dome
+Query: the USA's only granite dome This Wisconsin city Wisconsin USA
+Expected Answer: Madison
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NEWSPAPERS
+Clue: This Georgia paper is known as the AJC for short
+Query: Georgia AJC This Georgia paper the AJC
+Expected Answer: The Atlanta Journal-Constitution
+Top Search Result: The Atlanta Journal-Constitution
+Hit: Yes
+-------------------------------------------------
+Category: AFRICAN CITIES
+Clue: Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south
+Query: U.S. 2 the U.S. this Liberian capital Liberian an architectural link Wooden 2-story verandas
+Expected Answer: Monrovia
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: COMPLETE DOM-INATION(Alex: Not "domination.")
+Clue: This New Orleans venue reopened Sept. 25, 2006
+Query: This New Orleans venue New Orleans Sept. 25, 2006
+Expected Answer: Mercedes-Benz Superdome|The Superdome
+Top Search Result: Shreveport Symphony Orchestra
+Hit: No
+-------------------------------------------------
+Category: HE PLAYED A GUY NAMED JACK RYAN IN...
+Clue: "The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock"
+Query: he Red October The Hunt for Red October "30 Rock 30 Jack Donaghy
+Expected Answer: Alec Baldwin
+Top Search Result: Alec Baldwin
+Hit: Yes
+-------------------------------------------------
+Category: AFRICAN-AMERICAN WOMEN
+Clue: Rita Dove titled a collection of poems "On the Bus with" this woman
+Query: poems this woman a collection the Bus Rita Dove
+Expected Answer: Rosa Parks
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: HE PLAYED A GUY NAMED JACK RYAN IN...
+Clue: "Patriot Games"; he's had other iconic roles, in space & underground
+Query: he underground other iconic roles Patriot Games space
+Expected Answer: Harrison Ford
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: COMPLETE DOM-INATION(Alex: Not "domination.")
+Clue: This sacred structure dates from the late 600's A.D.
+Query: the late 600's A.D. This sacred structure
+Expected Answer: Dome of the Rock
+Top Search Result: Natural science
+Hit: No
+-------------------------------------------------
+Category: '80s NO.1 HITMAKERS
+Clue: 1988: "Man In The Mirror"
+Query: Man In The Mirror 1988 "Man The Mirror
+Expected Answer: Michael Jackson
+Top Search Result: Arthur Porges
+Hit: No
+-------------------------------------------------
+Category: CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Clue: Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867
+Query: Matyas Templom Franz Joseph 1867 Matthias Church
+Expected Answer: Budapest
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: UCLA CELEBRITY ALUMNI
+Clue: Attending UCLA in the '60s, he was no "Meathead", he just played one later on television
+Query: he 60s the ' the '60s no "Meathead television UCLA
+Expected Answer: Rob Reiner
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: THE RESIDENTS
+Clue: Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show
+Query: Kinch this TV show Stalag Carter residents Kinch, Carter & LeBeau LeBeau Stalag 13
+Expected Answer: Hogan's Heroes
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: 1920s NEWS FLASH!
+Clue: News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!
+Query: News sixth veep sixth chief deep sleep nation's top dog This less-than-yappy pappy
+Expected Answer: Calvin Coolidge
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: GOLDEN GLOBE WINNERS
+Clue: In 2001: The president of the United States on television
+Query: 2001 In 2001: The president television the United States
+Expected Answer: Martin Sheen
+Top Search Result: Susan Jeske
+Hit: No
+-------------------------------------------------
+Category: '80s NO.1 HITMAKERS
+Clue: 1989: "Miss You Much"
+Query: 1989 You
+Expected Answer: Janet Jackson
+Top Search Result: I Love the '80s (U.S. TV series)
+Hit: No
+-------------------------------------------------
+Category: 1920s NEWS FLASH!
+Clue: 1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic!
+Query: goodbye Turkish Republic the end an empire It This empire 600 years fact 1922 it
+Expected Answer: Ottoman Empire
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NAME THE PARENT COMPANY
+Clue: Crest toothpaste
+Query: Crest toothpaste Crest
+Expected Answer: Procter & Gamble
+Top Search Result: Crest (toothpaste)
+Hit: No
+-------------------------------------------------
+Category: HISTORICAL QUOTES
+Clue: In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world"
+Query: God Reichstag this Chancellor the Reichstag we Germans the world 1888 Germans
+Expected Answer: Otto von Bismarck|Von Bismarck
+Top Search Result: Wilhelm II, German Emperor
+Hit: No
+-------------------------------------------------
+Category: POETS & POETRY
+Clue: In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth"
+Query: he "Axiologus Greek 1787 axio- the Greek his first published poem
+Expected Answer: William Wordsworth
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CAMBODIAN HISTORY & CULTURE
+Clue: Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia
+Query: Cambodia this national language cambodia a popular accessory karma the word "scarf krama
+Expected Answer: Khmer language
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: CAMBODIAN HISTORY & CULTURE
+Clue: Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance.
+Query: that the nimble tuk-tuk a motorized taxi this a similar Asian conveyance an auto Asian Phnom Penh's notorious gridlock Phnom Penh's
+Expected Answer: Rickshaw
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: '80s NO.1 HITMAKERS
+Clue: 1980: "Rock With You"
+Query: Rock With You" You "Rock 1980
+Expected Answer: Michael Jackson
+Top Search Result: Rocky Burnette
+Hit: No
+-------------------------------------------------
+Category: NOTES FROM THE CAMPAIGN TRAIL
+Clue: The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign
+Query: "The Making of the President 1960 The Pulitzer-winning "The Making the President this man's successful presidential campaign
+Expected Answer: JFK|John F. Kennedy
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: SERVICE ORGANIZATIONS
+Clue: In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant"
+Query: Isaac Dittenhoefer whose name 1843 Isaac Dittenhoefer first this Jewish club children the covenant Jewish the first pres 1843
+Expected Answer: B'nai B'rith
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: THE RESIDENTS
+Clue: Don Knotts took over from Norman Fell as the resident landlord on this sitcom
+Query: Norman Fell this sitcom Don Knotts the resident landlord
+Expected Answer: Three's Company
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: OLD YEAR'S RESOLUTIONS
+Clue: U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war
+Query: this June 1967 war neighbors 242 U.N. Res U.N. Res. 242 supports "secure and recognized boundaries Israel June 1967 Israel & neighbors
+Expected Answer: The Six Day War
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: UCLA CELEBRITY ALUMNI
+Clue: This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major
+Query: a psychology her role Melrose Place This blonde beauty Amanda the new "Melrose Place who
+Expected Answer: Heather Locklear
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: GREEK FOOD & DRINK
+Clue: The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s"
+Query: lamb, skewered & grilled marinated lamb this dish The name "skewer Greek the Greek
+Expected Answer: Souvlaki
+Top Search Result: None
+Hit: No
+-------------------------------------------------
+Category: NAME THE PARENT COMPANY
+Clue: Post-it notes
+Query: - Post it
+Expected Answer: 3M
+Top Search Result: The Boston Post
+Hit: No
+-------------------------------------------------
+Category: GOLDEN GLOBE WINNERS
+Clue: In 2010: As Sherlock Holmes on film
+Query: 2010 Sherlock Holmes film
+Expected Answer: Robert Downey, Jr.
+Top Search Result: Irene Adler
+Hit: No
+-------------------------------------------------
