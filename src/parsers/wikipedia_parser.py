@@ -20,12 +20,12 @@ def parse_wikipedia_file(file_path):
                     "redirects": [],
                 }
             elif line.startswith("CATEGORIES:"):
-                categories = line[len("CATEGORIES:"):].strip().split(", ")
+                categories = line[len("CATEGORIES:") :].strip().split(", ")
                 if current_article:
                     current_article["categories"] = categories
             elif line.startswith("#REDIRECT"):
                 redirects = [
-                    redirect.strip() for redirect in line[len("#REDIRECT"):].split("#")
+                    redirect.strip() for redirect in line[len("#REDIRECT") :].split("#")
                 ]
                 if current_article:
                     current_article["redirects"] = redirects
